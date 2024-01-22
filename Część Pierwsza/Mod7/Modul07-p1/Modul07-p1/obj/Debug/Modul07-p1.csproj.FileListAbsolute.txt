@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod7\Modul07-p1\Modul07-p1\bin\Debug\Modul07_p1.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod7\Modul07-p1\Modul07-p1\bin\Debug\Modul07_p1.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod7\Modul07-p1\Modul07-p1\obj\Debug\Modul07-p1.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod7\Modul07-p1\Modul07-p1\obj\Debug\Modul07-p1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod7\Modul07-p1\Modul07-p1\obj\Debug\Modul07_p1.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod7\Modul07-p1\Modul07-p1\obj\Debug\Modul07_p1.pdb
