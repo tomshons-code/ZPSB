@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Modul02\bin\Debug\Modul02.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Modul02\bin\Debug\Modul02.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Modul02\obj\Debug\Modul02.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Modul02\obj\Debug\Modul02.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Modul02\obj\Debug\Modul02.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Modul02\obj\Debug\Modul02.pdb

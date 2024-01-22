@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Max\bin\Debug\Max.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Max\bin\Debug\Max.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Max\obj\Debug\Max.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Max\obj\Debug\Max.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Max\obj\Debug\Max.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Max\obj\Debug\Max.pdb

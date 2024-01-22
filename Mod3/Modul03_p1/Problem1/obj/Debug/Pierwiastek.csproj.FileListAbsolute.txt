@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Pierwiastek\bin\Debug\Pierwiastek.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Pierwiastek\bin\Debug\Pierwiastek.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Pierwiastek\obj\Debug\Pierwiastek.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Pierwiastek\obj\Debug\Pierwiastek.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Pierwiastek\obj\Debug\Pierwiastek.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Pierwiastek\obj\Debug\Pierwiastek.pdb
