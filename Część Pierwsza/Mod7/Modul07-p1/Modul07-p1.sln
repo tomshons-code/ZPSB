@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul07-p1", "Modul07-p1\Modul07-p1.csproj", "{FF9645C9-304B-4653-A556-D10128C4E6BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1", "Problem1\Problem1.csproj", "{FF9645C9-304B-4653-A556-D10128C4E6BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{C61C9A30-2649-4EFD-B5C6-9777FE91108B}"
 EndProject

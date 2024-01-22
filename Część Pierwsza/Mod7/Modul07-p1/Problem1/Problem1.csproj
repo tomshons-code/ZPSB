@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{C61C9A30-2649-4EFD-B5C6-9777FE91108B}</ProjectGuid>
+        <ProjectGuid>{FF9645C9-304B-4653-A556-D10128C4E6BF}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Problem2</RootNamespace>
-        <AssemblyName>Problem2</AssemblyName>
+        <RootNamespace>Modul07_p1</RootNamespace>
+        <AssemblyName>Modul07_p1</AssemblyName>
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -40,7 +40,7 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Binarne.cs" />
+        <Compile Include="Wstawianie.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
