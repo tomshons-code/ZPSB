@@ -10,7 +10,6 @@ namespace Modul01
             Console.ReadKey(true);
             Console.WriteLine("Koniec");
             Console.ReadKey(true);
-            Console.WriteLine("TEST");
         }
     }
 }
