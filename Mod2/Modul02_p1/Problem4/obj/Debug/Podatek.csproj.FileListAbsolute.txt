@@ -1,6 +1,0 @@
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Podatek\bin\Debug\Podatek.exe
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Podatek\bin\Debug\Podatek.pdb
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Podatek\obj\Debug\Podatek.csproj.AssemblyReference.cache
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Podatek\obj\Debug\Podatek.csproj.CoreCompileInputs.cache
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Podatek\obj\Debug\Podatek.exe
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Podatek\obj\Debug\Podatek.pdb

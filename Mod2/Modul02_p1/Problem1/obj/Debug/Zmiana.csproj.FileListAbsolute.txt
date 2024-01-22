@@ -1,6 +1,0 @@
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Zmiana\bin\Debug\Zmiana.exe
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Zmiana\bin\Debug\Zmiana.pdb
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Zmiana\obj\Debug\Zmiana.csproj.AssemblyReference.cache
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Zmiana\obj\Debug\Zmiana.csproj.CoreCompileInputs.cache
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Zmiana\obj\Debug\Zmiana.exe
-C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Zmiana\obj\Debug\Zmiana.pdb
