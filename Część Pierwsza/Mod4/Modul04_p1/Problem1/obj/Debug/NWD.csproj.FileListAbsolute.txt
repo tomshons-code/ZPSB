@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\NWD\bin\Debug\NWD.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\NWD\bin\Debug\NWD.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\NWD\obj\Debug\NWD.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\NWD\obj\Debug\NWD.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\NWD\obj\Debug\NWD.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\NWD\obj\Debug\NWD.pdb

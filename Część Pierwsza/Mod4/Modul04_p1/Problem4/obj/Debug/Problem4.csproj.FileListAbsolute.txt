@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\Problem4\bin\Debug\Problem4.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\Problem4\bin\Debug\Problem4.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\Problem4\obj\Debug\Problem4.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\Problem4\obj\Debug\Problem4.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\Problem4\obj\Debug\Problem4.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod4\Modul04_p1\Problem4\obj\Debug\Problem4.pdb
