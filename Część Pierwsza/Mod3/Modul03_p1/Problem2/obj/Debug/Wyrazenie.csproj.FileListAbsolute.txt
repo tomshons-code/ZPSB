@@ -1,0 +1,12 @@
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Wyrazenie\bin\Debug\Wyrazenie.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Wyrazenie\bin\Debug\Wyrazenie.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Wyrazenie\obj\Debug\Wyrazenie.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Wyrazenie\obj\Debug\Wyrazenie.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Wyrazenie\obj\Debug\Wyrazenie.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul03_p1\Wyrazenie\obj\Debug\Wyrazenie.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod3\Modul03_p1\Wyrazenie\bin\Debug\Wyrazenie.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod3\Modul03_p1\Wyrazenie\bin\Debug\Wyrazenie.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod3\Modul03_p1\Wyrazenie\obj\Debug\Wyrazenie.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod3\Modul03_p1\Wyrazenie\obj\Debug\Wyrazenie.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod3\Modul03_p1\Wyrazenie\obj\Debug\Wyrazenie.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod3\Modul03_p1\Wyrazenie\obj\Debug\Wyrazenie.pdb

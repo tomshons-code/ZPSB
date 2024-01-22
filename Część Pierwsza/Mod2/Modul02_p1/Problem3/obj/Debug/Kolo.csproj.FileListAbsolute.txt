@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Kolo\bin\Debug\Kolo.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Kolo\bin\Debug\Kolo.pdb
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Kolo\obj\Debug\Kolo.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Kolo\obj\Debug\Kolo.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Kolo\obj\Debug\Kolo.exe
+C:\Users\tomas\OneDrive\Dokumenty\1.ZPSB\Mod2\Modul02\Kolo\obj\Debug\Kolo.pdb
