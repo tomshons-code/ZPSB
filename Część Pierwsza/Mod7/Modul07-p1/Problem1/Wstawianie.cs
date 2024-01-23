@@ -35,6 +35,8 @@ namespace Modul07_p1
             //     tablica[j + 1] = x; 
             // }
 
+            
+            
             //Sposób 2
             
             int j, l, p, m;
