@@ -9,20 +9,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e7c3377-cf85-46e4-afb9-cf8e2bb4b72a" name="Changes" comment="Problem 1 Mod7">
-      <change afterPath="$PROJECT_DIR$/Problem2/bin/Debug/Problem2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem2/bin/Debug/Problem2.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem2/obj/Debug/Problem2.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem2/obj/Debug/Problem2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem2/obj/Debug/Problem2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem2/obj/Debug/Problem2.pdb" afterDir="false" />
+    <list default="true" id="2e7c3377-cf85-46e4-afb9-cf8e2bb4b72a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Mod9/Modul09_p1/Modul09_p1/Modul09_p1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mod9/Modul09_p1/Modul09_p1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mod9/Modul09_p1/Modul09_p1/Properties/AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Modul07-p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Modul07-p1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem1/Wstawianie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Problem1/Wstawianie.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem1/bin/Debug/Modul07_p1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Problem1/bin/Debug/Modul07_p1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem1/bin/Debug/Modul07_p1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Problem1/bin/Debug/Modul07_p1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem1/obj/Debug/Modul07_p1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Problem1/obj/Debug/Modul07_p1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem1/obj/Debug/Modul07_p1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Problem1/obj/Debug/Modul07_p1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem2/Binarne.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Problem2/Binarne.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/.idea/.idea.Modul08_p1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/.idea/.idea.Modul08_p1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/.idea/.idea.Modul08_p1/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/.idea/.idea.Modul08_p1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/Modul08_p1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/Modul08_p1/Modul08_p1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/Modul08_p1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/Modul08_p1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mod8/Modul08_p1/Modul08_p1/obj/Debug/Modul08_p1.csproj.AssemblyReference.cache" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/tomas/OneDrive/Dokumenty/Git/Część Pierwsza/Mod7/Modul07-p1/Problem2/Binarne.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -44,31 +48,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.Modul07-p1.executor": "Run",
-    ".NET Project.Problem1.executor": "Run",
-    ".NET Project.Problem2.executor": "Run",
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/tomas/OneDrive/Dokumenty/Git/Część Pierwsza/Mod7",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.Modul07-p1.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Problem1.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Problem2.executor&quot;: &quot;Run&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tomas/OneDrive/Dokumenty/Git/Część Pierwsza/Mod7&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\tomas\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\tomas\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\tomas\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\tomas\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\tomas\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\tomas\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.Problem2">
     <configuration name="Problem1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -117,7 +121,8 @@
       <updated>1705951560049</updated>
       <workItem from="1705951560474" duration="264000" />
       <workItem from="1705951872918" duration="2548000" />
-      <workItem from="1706031219160" duration="2913000" />
+      <workItem from="1706031219160" duration="3099000" />
+      <workItem from="1706034349119" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Mod 08">
       <option name="closed" value="true" />
@@ -159,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706031926945</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Problem2 Mod7">
+      <option name="closed" value="true" />
+      <created>1706034198522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706034198522</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +198,7 @@
     <MESSAGE value="Dodanie Problemu 2 do Mod 7" />
     <MESSAGE value="Update Mod7" />
     <MESSAGE value="Problem 1 Mod7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 1 Mod7" />
+    <MESSAGE value="Problem2 Mod7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem2 Mod7" />
   </component>
 </project>
