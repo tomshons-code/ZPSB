@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{16ED8E9A-36C3-4DAF-A747-713DD628911D}</ProjectGuid>
+        <ProjectGuid>{ABBD4157-B5AF-4FB1-ABBD-5AE92042F123}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Modul10_p1</RootNamespace>
-        <AssemblyName>Modul10_p1</AssemblyName>
+        <RootNamespace>Problem2</RootNamespace>
+        <AssemblyName>Problem2</AssemblyName>
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -40,7 +40,7 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Wielo.cs" />
+        <Compile Include="SortowanieStogowe.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
