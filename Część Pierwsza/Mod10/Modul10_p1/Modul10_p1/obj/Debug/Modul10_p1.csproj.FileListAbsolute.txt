@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod10\Modul10_p1\Modul10_p1\bin\Debug\Modul10_p1.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod10\Modul10_p1\Modul10_p1\bin\Debug\Modul10_p1.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod10\Modul10_p1\Modul10_p1\obj\Debug\Modul10_p1.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod10\Modul10_p1\Modul10_p1\obj\Debug\Modul10_p1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod10\Modul10_p1\Modul10_p1\obj\Debug\Modul10_p1.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod10\Modul10_p1\Modul10_p1\obj\Debug\Modul10_p1.pdb
