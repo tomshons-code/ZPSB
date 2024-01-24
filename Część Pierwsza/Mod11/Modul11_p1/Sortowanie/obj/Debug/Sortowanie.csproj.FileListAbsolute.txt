@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod11\Modul11_p1\Sortowanie\bin\Debug\Sortowanie.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod11\Modul11_p1\Sortowanie\bin\Debug\Sortowanie.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod11\Modul11_p1\Sortowanie\obj\Debug\Sortowanie.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod11\Modul11_p1\Sortowanie\obj\Debug\Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod11\Modul11_p1\Sortowanie\obj\Debug\Sortowanie.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod11\Modul11_p1\Sortowanie\obj\Debug\Sortowanie.pdb
