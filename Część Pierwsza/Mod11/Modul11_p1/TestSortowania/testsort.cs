@@ -3,7 +3,7 @@ using Sortowanie.Properties;
 
 namespace TestSortowania
 {
-    internal class Program
+    internal class testsort
     {
         public static void Main(string[] args)
         {
