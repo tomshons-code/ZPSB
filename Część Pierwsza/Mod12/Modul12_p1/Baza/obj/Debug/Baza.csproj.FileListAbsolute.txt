@@ -1,0 +1,9 @@
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\bin\Debug\Baza.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\bin\Debug\Baza.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\bin\Debug\Biblioteka.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\bin\Debug\Biblioteka.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\obj\Debug\Baza.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\obj\Debug\Baza.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\obj\Debug\Baza.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Pierwsza\Mod12\Modul12_p1\Baza\obj\Debug\Baza.pdb
