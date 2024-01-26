@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod3\Modul3_p2\Problem 2\bin\Debug\Problem_2.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod3\Modul3_p2\Problem 2\bin\Debug\Problem_2.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod3\Modul3_p2\Problem 2\obj\Debug\Problem 2.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod3\Modul3_p2\Problem 2\obj\Debug\Problem 2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod3\Modul3_p2\Problem 2\obj\Debug\Problem_2.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod3\Modul3_p2\Problem 2\obj\Debug\Problem_2.pdb
