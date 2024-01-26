@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\TestListy\bin\Debug\TestListy.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\TestListy\bin\Debug\TestListy.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\TestListy\obj\Debug\TestListy.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\TestListy\obj\Debug\TestListy.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\TestListy\obj\Debug\TestListy.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\TestListy\obj\Debug\TestListy.pdb

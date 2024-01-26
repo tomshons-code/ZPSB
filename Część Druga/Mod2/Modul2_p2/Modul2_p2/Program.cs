@@ -31,9 +31,9 @@ namespace Modul2_p2
             klon2.ZmienDaneOsobowe();
             Console.WriteLine("Oryginał drugi: {0}", os2.ZwrocInformacjeOsobowe());
             Console.WriteLine("Klon drugi: {0}", klon2.ZwrocInformacjeOsobowe());
-
+            
             Console.ReadKey();
-
+            //Adres adr2 = new Adres();
         }
     }
 }
