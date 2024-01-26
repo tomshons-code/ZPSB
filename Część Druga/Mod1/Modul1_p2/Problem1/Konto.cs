@@ -61,10 +61,5 @@ namespace Modul1_p2
             }
             return "Brak dostepu";
         }
-        
-        
-
-
-        
     }
 }

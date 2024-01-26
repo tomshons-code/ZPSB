@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{E86499D5-403A-4076-B0DC-C2998A2CA45F}</ProjectGuid>
+        <ProjectGuid>{ED99CDC3-8AD7-491C-BAE5-2401622DDABE}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Modul1_p2</RootNamespace>
-        <AssemblyName>Modul1_p2</AssemblyName>
+        <RootNamespace>Problem2</RootNamespace>
+        <AssemblyName>TestKolejki</AssemblyName>
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -40,8 +40,8 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Konto.cs" />
-        <Compile Include="Program.cs"/>
+        <Compile Include="KolejkaFIFO.cs" />
+        <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>

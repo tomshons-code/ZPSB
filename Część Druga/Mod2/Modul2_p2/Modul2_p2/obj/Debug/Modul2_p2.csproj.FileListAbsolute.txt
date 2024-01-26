@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\Modul2_p2\obj\Debug\Modul2_p2.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\Modul2_p2\obj\Debug\Modul2_p2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\Modul2_p2\bin\Debug\Modul2_p2.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\Modul2_p2\bin\Debug\Modul2_p2.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\Modul2_p2\obj\Debug\Modul2_p2.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod2\Modul2_p2\Modul2_p2\obj\Debug\Modul2_p2.pdb

@@ -1,0 +1,6 @@
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod1\Modul1_p2\TestKolejki\bin\Debug\TestKolejki.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod1\Modul1_p2\TestKolejki\bin\Debug\TestKolejki.pdb
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod1\Modul1_p2\TestKolejki\obj\Debug\TestKolejki.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod1\Modul1_p2\TestKolejki\obj\Debug\TestKolejki.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod1\Modul1_p2\TestKolejki\obj\Debug\TestKolejki.exe
+C:\Users\tomas\OneDrive\Dokumenty\Git\Część Druga\Mod1\Modul1_p2\TestKolejki\obj\Debug\TestKolejki.pdb
